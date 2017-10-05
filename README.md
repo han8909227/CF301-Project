@@ -8,7 +8,8 @@ Ticket Jedi
 ## Technology
 * External Plug-ins, e.g. Twitter Plug-in.
 * External APIs
-* SMACSS styling
+* SMACSS & Mobile-Responsive styling
+* Heroku Deployment 
 * JS frameworks & modules, e.g. jQuery, Handlebars, Express, etc.
 * Proxy Server, e.g. Express Request Proxy
 * [TM API](https://developer.ticketmaster.com/products-and-docs/)
